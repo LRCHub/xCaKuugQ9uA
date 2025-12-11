@@ -1,0 +1,128 @@
+{
+  "version": 1,
+  "base_track": "Doodle",
+  "base_artist": "Mrs. GREEN APPLE",
+  "createdAt": "2025-12-11T12:46:39.934878Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Doodle",
+      "artist": "Lipgloss Twins",
+      "has_synced": true,
+      "path": "select/01_Doodle_Lipgloss_Twins.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Wang Dang Doodle",
+      "artist": "Love Sculpture",
+      "has_synced": true,
+      "path": "select/02_Wang_Dang_Doodle_Love_Sculpture.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Yankee Doodle - Live In Syracuse, March 30, 1985 - 2022 Remaster",
+      "artist": "Prince",
+      "has_synced": false,
+      "path": "select/03_Yankee_Doodle_-_Live_In_Syracuse,_March_30,_1985_-_2022_Remaster_Prince.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "The Doodle Song",
+      "artist": "The Proclaimers",
+      "has_synced": false,
+      "path": "select/04_The_Doodle_Song_The_Proclaimers.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Wang Dang Doodle",
+      "artist": "The Pointer Sisters",
+      "has_synced": false,
+      "path": "select/05_Wang_Dang_Doodle_The_Pointer_Sisters.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Polly Wolly Doodle",
+      "artist": "Leon Redbone",
+      "has_synced": false,
+      "path": "select/06_Polly_Wolly_Doodle_Leon_Redbone.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Wang Dang Doodle",
+      "artist": "Livin' Blues",
+      "has_synced": false,
+      "path": "select/07_Wang_Dang_Doodle_Livin'_Blues.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Wang Dang Doodle (single version)",
+      "artist": "Livin' Blues",
+      "has_synced": false,
+      "path": "select/08_Wang_Dang_Doodle_(single_version)_Livin'_Blues.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Doodle Oodle",
+      "artist": "Count Basie",
+      "has_synced": false,
+      "path": "select/09_Doodle_Oodle_Count_Basie.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Dip Doodle",
+      "artist": "Adam Sandler",
+      "has_synced": false,
+      "path": "select/10_Dip_Doodle_Adam_Sandler.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Cock-a-Doodle Don't",
+      "artist": "Brian Setzer",
+      "has_synced": true,
+      "path": "select/11_Cock-a-Doodle_Don't_Brian_Setzer.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Beleeka Doodle Day",
+      "artist": "Al Stewart",
+      "has_synced": false,
+      "path": "select/12_Beleeka_Doodle_Day_Al_Stewart.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Wang Dang Doodle",
+      "artist": "Koko Taylor",
+      "has_synced": false,
+      "path": "select/13_Wang_Dang_Doodle_Koko_Taylor.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Yankee Doodle Never Went to Town",
+      "artist": "Billie Holiday",
+      "has_synced": false,
+      "path": "select/14_Yankee_Doodle_Never_Went_to_Town_Billie_Holiday.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Doodle",
+      "artist": "Mrs. GREEN APPLE",
+      "has_synced": false,
+      "path": "select/pl_01_Doodle_Mrs._GREEN_APPLE.txt"
+    }
+  ]
+}
